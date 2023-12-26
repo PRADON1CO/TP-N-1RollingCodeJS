@@ -1,0 +1,1 @@
+alert('Revisar el sistema operstivo para esta pagina');
