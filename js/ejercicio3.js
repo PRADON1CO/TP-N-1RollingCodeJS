@@ -1,0 +1,1 @@
+document.write('<br>el resultado de sumar los numeros 3 y 5 es: ' + (3 + 5) + '<br>');
